@@ -23,7 +23,7 @@ export class ProjectsComponent {
     {
       title: 'AirBot AI',
       description: 'An intelligent AI platform leveraging OpenAI APIs and .NET Core for high-speed, real-time chat interactions. Designed with a focus on seamless user experience.',
-      image: 'assets/projects/airbot.png', // تأكد من وجود الصورة في الفولدر ده
+      image: 'airbot.jpeg', // تأكد من وجود الصورة في الفولدر ده
       tags: ['Angular', '.NET API', 'OpenAI', 'Tailwind'],
       link: 'https://airbotai.vercel.app/'
     },
@@ -37,14 +37,14 @@ export class ProjectsComponent {
     {
       title: 'CryptoSphere',
       description: 'A real-time cryptocurrency dashboard that visualizes market trends. Utilizes RxJS for stream handling and external crypto APIs for live data.',
-      image: 'assets/projects/crypto.png',
+      image: 'cryptoshpere.jpeg',
       tags: ['Angular', 'RxJS', 'Crypto API', 'Tailwind'],
       link: 'https://cryptosphere-five.vercel.app/'
     },
     {
       title: 'X-Fit',
       description: 'A feature-rich fitness application built with .NET MVC and Angular. Manages workouts, user progress, and health metrics with a robust SQL backend.',
-      image: 'assets/projects/xfit.png',
+      image: 'x-fitLogo.png',
       tags: ['Angular', 'ASP.NET MVC', 'Entity Framework', 'SQL'],
       link: 'https://x-fit.vercel.app'
     }
