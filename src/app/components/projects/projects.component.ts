@@ -47,6 +47,13 @@ export class ProjectsComponent {
       image: 'x-fitLogo.png',
       tags: ['Angular', 'ASP.NET MVC', 'Entity Framework', 'SQL'],
       link: 'https://x-fit.vercel.app'
+    },
+    {
+      title: 'ShopCart',
+      description: '"A modern, responsive E-commerce solution designed for scale. This platform offers a lightning-fast shopping experience with advanced filtering, dynamic product management, and a secure payment gateway integration. Built with a focus on SEO and high conversion rates.',
+      image: 'x-fitLogo.png',
+      tags: ['React' , 'firebase', 'Tailwind'],
+      link: 'https://shop-cart-131cb.web.app/'
     }
   ];
 
