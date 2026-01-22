@@ -21,6 +21,14 @@ export class ProjectsComponent {
   
   projects: Project[] = [
     {
+      title: 'Carevio',
+      description: 'Connect with verified, experienced nurses for home care, elderly care, post-operative support, and specialized medical services.',
+      image: 'carvio.png', // تأكد من وجود الصورة في الفولدر ده
+      tags: ['Vue', 'Node.js', 'AI', 'Tailwind'],
+      link: 'https://carevio.netlify.app/#/'
+    },
+    
+    {
       title: 'AirBot AI',
       description: 'An intelligent AI platform leveraging OpenAI APIs and .NET Core for high-speed, real-time chat interactions. Designed with a focus on seamless user experience.',
       image: 'airbot.jpeg', // تأكد من وجود الصورة في الفولدر ده
